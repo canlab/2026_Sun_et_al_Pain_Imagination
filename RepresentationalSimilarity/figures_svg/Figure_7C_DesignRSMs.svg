@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="148.167mm" height="89.6056mm"
+ viewBox="0 0 420 254"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>Qt SVG Document</title>
+<desc>MATLAB, The MathWorks, Inc. Version 25.2.0.3123386 R2025b Update 3</desc>
+<defs>
+<pattern id="fillPattern44_" x="109" y="154.5" width="179" height="180" patternUnits="userSpaceOnUse" >
+<image xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAALMAAAC0CAYAAADfER1LAAAACXBIWXMAABYlAAAWJQFJUiTwAAADHElEQVR4nO3dMW7jQBBFwebe/85yaCjwCJBWIPmmKt1kG3iY4IO2j8fj8Zg/HMfx1z/d1uLc3L2rW2d69/47+z8A/4uYyRAzGWImQ8xkiJmMY2b+3G92m3Z2mu1mevd6mckQMxliJkPMZIiZDDGTIWYyljvzK7WdcsXm/uyK93qZyRAzGWImQ8xkiJkMMZPx0TS3csdp5xM7zZQz17zXy0yGmMkQMxliJkPMZIiZDDGT8bWd+ZWdduidbp05714vMxliJkPMZIiZDDGTIWYyxEzGaTvzK1f8XvZb7NDP3r3Xy0yGmMkQMxliJkPMZIiZjMtOcyumrF+1W2fev9fLTIaYyRAzGWImQ8xkiJkMMZNxy535lZ122Z1unVnf62UmQ8xkiJkMMZMhZjLETMbxWGwdu007tXt3+1TWy0yGmMkQMxliJkPMZIiZjOVXc7tNOzvNdjO9e73MZIiZDDGTIWYyxEyGmMn46Adaa9POipny2RXv9TKTIWYyxEyGmMkQMxliJkPMZHztFyfecaf8xE6b+8w17/UykyFmMsRMhpjJEDMZYibjtL9pstN0t9OtM+fd62UmQ8xkiJkMMZMhZjLETIaYybjs386+4ieG32KHfvbuvV5mMsRMhpjJEDMZYiZDzGSImYzL7swrdtlftVtn3r/Xy0yGmMkQMxliJkPMZIiZjFtOc6/sNGXtdOvM+l4vMxliJkPMZIiZDDGTIWYyjsdi69ht2qndu9vXhV5mMsRMhpjJEDMZYiZDzGSImYzlJ6C77ZQ7bdAzvXu9zGSImQwxkyFmMsRMhpjJ+Oins2vTzoqZ8tkV7/UykyFmMsRMhpjJEDMZYiZDzGR87beA3nGn/MROm/vMNe/1MpMhZjLETIaYyRAzGWIm47Q/0LPTdLfTrTPn3etlJkPMZIiZDDGTIWYyxEyGmMm47B+Cv+Inht9ih3727r1eZjLETIaYyRAzGWImQ8xkiJmMy+7MK3bZX7VbZ96/18tMhpjJEDMZYiZDzGSImYxbTnOv7DRl7XTrzPpeLzMZYiZDzGSImQwxkyFmMsRMxg+REfEw3UJ7NwAAAABJRU5ErkJggg==" x="0" y="0" width="179" height="180" />
+</pattern>
+<pattern id="fillPattern45_" x="345" y="154.5" width="179" height="180" patternUnits="userSpaceOnUse" >
+<image xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAALMAAAC0CAYAAADfER1LAAAACXBIWXMAABYlAAAWJQFJUiTwAAACFklEQVR4nO3UgQ3DMAwEMav776wu0cbAhZzgDR80u7vnRWbm9gT+5HN7APyKmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxlzztnbI560+57nzsztCY9ymckQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxlzztnbI/iP3Xd9rctMhpjJEDMZYiZDzGSImQwxkyFmMsRMhpjJEDMZYiZDzGSImQwxkyFmMsRMhpjJEDMZYiZDzGSImQwxkyFmMsRMhpjJEDMZYiZDzGSImQwxkyFmMsRMhpjJEDMZYiZDzGSImQwxkyFmMsRMhpjJEDMZYiZDzGSImQwxkyFmMsRMhpjJEDMZYiZDzGSImQwxkyFmMsRMhpjJEDMZYibjC1XkDWAoAxDeAAAAAElFTkSuQmCC" x="0" y="0" width="179" height="180" />
+</pattern>
+<pattern id="fillPattern46_" x="581" y="154.5" width="179" height="180" patternUnits="userSpaceOnUse" >
+<image xlink:href="data:image/png;base64, iVBORw0KGgoAAAANSUhEUgAAALMAAAC0CAYAAADfER1LAAAACXBIWXMAABYlAAAWJQFJUiTwAAACGElEQVR4nO3UgQkDIBAEQQ3pv+VPE0FhnangxOX3WmvWQ2aeeu5TPrcHwL+ImQwxkyFmMsRMhpjJEDMZYiZDzGSImQwxkyFmMsRMhpjJEDMZYiZDzGSImQwxkyFmMsRMhpjJEDMZYiZDzGSImQwxkyFmMsRMhpjJEDMZYiZDzGSImQwxkyFmMsRMhpjJEDMZYiZDzGSImQwxkyFmMsRMhpjJEDMZYiZDzGSImQwxkyFmMsRMhpjJEDMZYiZDzGSImQwxk/Gdmdsbjtp7355wzGt/6zKTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyxEyGmMkQMxliJkPMZIiZDDGTIWYyvrcHnDYztyccs/e+PeEol5kMMZMhZjLETIaYyRAzGWImQ8xkiJkMMZMhZjLETIaYyRAzGWImQ8xkiJkMMZMhZjLETIaYyRAzGWImQ8xkiJkMMZMhZjLETIaYyRAzGWImQ8xkiJkMMZMhZjLETIaYyRAzGWImQ8xkiJkMMZMhZjLETIaYyRAzGWImQ8xkiJkMMZMhZjLETIaYyRAzGWImQ8xkiJkMMZMhZjLETMYPEooOZevPZDEAAAAASUVORK5CYII=" x="0" y="0" width="179" height="180" />
+</pattern>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(0.5,0,0,0.5,0,0)"
+font-family="MS Shell Dlg 2" font-size="8" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M0,0 L841,0 L841,508 L0,508 L0,0"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(5e-05,0,0,5e-05,0,0)"
+font-family="MS Shell Dlg 2" font-size="8" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1.09e+06,1.545e+06 L1.09e+06,3.335e+06 L2.88e+06,3.335e+06 L2.88e+06,1.545e+06 L1.09e+06,1.545e+06"/>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.5,0,0,0.5,76.0001,74.0813)"
+font-family="Helvetica" font-size="18" font-weight="700" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="Helvetica" font-size="18" font-weight="700" font-style="normal" 
+ >Body Sites</text>
+</g>
+
+<g fill="url(#fillPattern44_)" stroke="none" transform="matrix(0.5,0,0,0.5,0,0)"
+font-family="Helvetica" font-size="18" font-weight="700" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M288,154.5 L109,154.5 L109,333.5 L288,333.5 L288,154.5"/>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="round" transform="matrix(0.5,0,0,0.5,0,0)"
+font-family="Helvetica" font-size="18" font-weight="700" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="109,333.5 288,333.5 " />
+<polyline fill="none" vector-effect="none" points="109,154.5 288,154.5 " />
+<polyline fill="none" vector-effect="none" points="109,154.5 109,333.5 " />
+<polyline fill="none" vector-effect="none" points="288,154.5 288,333.5 " />
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(5e-05,0,0,5e-05,0,0)"
+font-family="Helvetica" font-size="18" font-weight="700" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M3.45e+06,1.545e+06 L3.45e+06,3.335e+06 L5.24e+06,3.335e+06 L5.24e+06,1.545e+06 L3.45e+06,1.545e+06"/>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.5,0,0,0.5,193.75,74.0813)"
+font-family="Helvetica" font-size="18" font-weight="700" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="Helvetica" font-size="18" font-weight="700" font-style="normal" 
+ >Conditions</text>
+</g>
+
+<g fill="url(#fillPattern45_)" stroke="none" transform="matrix(0.5,0,0,0.5,0,0)"
+font-family="Helvetica" font-size="18" font-weight="700" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M524,154.5 L345,154.5 L345,333.5 L524,333.5 L524,154.5"/>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="round" transform="matrix(0.5,0,0,0.5,0,0)"
+font-family="Helvetica" font-size="18" font-weight="700" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="345,333.5 524,333.5 " />
+<polyline fill="none" vector-effect="none" points="345,154.5 524,154.5 " />
+<polyline fill="none" vector-effect="none" points="345,154.5 345,333.5 " />
+<polyline fill="none" vector-effect="none" points="524,154.5 524,333.5 " />
+</g>
+
+<g fill="#ffffff" fill-opacity="1" stroke="none" transform="matrix(5e-05,0,0,5e-05,0,0)"
+font-family="Helvetica" font-size="18" font-weight="700" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M5.81e+06,1.545e+06 L5.81e+06,3.335e+06 L7.6e+06,3.335e+06 L7.6e+06,1.545e+06 L5.81e+06,1.545e+06"/>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.5,0,0,0.5,297.5,74.0813)"
+font-family="Helvetica" font-size="18" font-weight="700" font-style="normal" 
+>
+<text fill="#212121" fill-opacity="1" stroke="none" xml:space="preserve" x="0" y="0" font-family="Helvetica" font-size="18" font-weight="700" font-style="normal" 
+ >Cross-Conditions</text>
+</g>
+
+<g fill="url(#fillPattern46_)" stroke="none" transform="matrix(0.5,0,0,0.5,0,0)"
+font-family="Helvetica" font-size="18" font-weight="700" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M760,154.5 L581,154.5 L581,333.5 L760,333.5 L760,154.5"/>
+</g>
+
+<g fill="#212121" fill-opacity="1" stroke="#212121" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="round" transform="matrix(0.5,0,0,0.5,0,0)"
+font-family="Helvetica" font-size="18" font-weight="700" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="581,333.5 760,333.5 " />
+<polyline fill="none" vector-effect="none" points="581,154.5 760,154.5 " />
+<polyline fill="none" vector-effect="none" points="581,154.5 581,333.5 " />
+<polyline fill="none" vector-effect="none" points="760,154.5 760,333.5 " />
+</g>
+</g>
+</svg>
